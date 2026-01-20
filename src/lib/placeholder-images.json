@@ -1,3 +1,28 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "about-me",
+      "description": "A portrait of the portfolio owner.",
+      "imageUrl": "https://images.unsplash.com/photo-1699746277651-3b1438122eaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cG9ydHJhaXQlMjBwZXJzb258ZW58MHx8fHwxNzY4ODkyMTg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "portrait person"
+    },
+    {
+      "id": "project-1",
+      "description": "Screenshot of Project 1.",
+      "imageUrl": "https://images.unsplash.com/photo-1675334758735-5f989ff8237f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhYnN0cmFjdCUyMHRlY2hub2xvZ3l8ZW58MHx8fHwxNzY4ODY1NjQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract technology"
+    },
+    {
+      "id": "project-2",
+      "description": "Screenshot of Project 2.",
+      "imageUrl": "https://images.unsplash.com/photo-1557324232-b8917d3c3dcb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx3ZWJzaXRlJTIwY29kZXxlbnwwfHx8fDE3Njg5MDc0MzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "website code"
+    },
+    {
+      "id": "project-3",
+      "description": "Screenshot of Project 3.",
+      "imageUrl": "https://images.unsplash.com/photo-1761639935139-ffc5d7ce8e67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtb2Rlcm4lMjBkZXNpZ258ZW58MHx8fHwxNzY4ODM2MzQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern design"
+    }
+  ]
 }
