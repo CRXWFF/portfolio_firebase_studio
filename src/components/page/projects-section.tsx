@@ -8,16 +8,15 @@ import { Github, ExternalLink } from "lucide-react";
 const projectData = [
   {
     id: "project-1",
-    title: "E-commerce Platform",
-    description: "A full-featured e-commerce site with product listings, a shopping cart, and a checkout process, built with Next.js and Stripe.",
-    githubUrl: "https://github.com",
+    title: "TRU",
+    description: "A public transportation tracking project, specifically for buses. This project was created using Python and is CLI-based.",
+    githubUrl: "https://github.com/CRXWFF/TRU",
     liveUrl: "#",
   },
   {
     id: "project-2",
     title: "Task Management App",
     description: "A responsive and interactive task management application to help users organize their daily tasks and boost productivity.",
-    liveUrl: "#",
   },
   {
     id: "project-3",
@@ -66,12 +65,14 @@ const ProjectsSection = () => {
                       </Link>
                     </Button>
                   )}
-                  <Button asChild className="w-full">
-                    <Link href={project.liveUrl} target="_blank">
-                      <ExternalLink />
-                      Live Demo
-                    </Link>
-                  </Button>
+                  {project.liveUrl && (
+                    <Button asChild className="w-full">
+                      <Link href={project.liveUrl} target="_blank">
+                        <ExternalLink />
+                        Live Demo
+                      </Link>
+                    </Button>
+                  )}
                 </CardFooter>
               </Card>
             );
