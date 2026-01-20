@@ -17,7 +17,6 @@ const projectData = [
     id: "project-2",
     title: "Task Management App",
     description: "A responsive and interactive task management application to help users organize their daily tasks and boost productivity.",
-    githubUrl: "https://github.com",
     liveUrl: "#",
   },
   {
@@ -59,12 +58,14 @@ const ProjectsSection = () => {
                   <p className="text-muted-foreground">{project.description}</p>
                 </CardContent>
                 <CardFooter className="gap-2">
-                  <Button variant="outline" asChild className="w-full">
-                    <Link href={project.githubUrl} target="_blank">
-                      <Github />
-                      GitHub
-                    </Link>
-                  </Button>
+                  {project.githubUrl && (
+                    <Button variant="outline" asChild className="w-full">
+                      <Link href={project.githubUrl} target="_blank">
+                        <Github />
+                        GitHub
+                      </Link>
+                    </Button>
+                  )}
                   <Button asChild className="w-full">
                     <Link href={project.liveUrl} target="_blank">
                       <ExternalLink />

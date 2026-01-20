@@ -1,5 +1,5 @@
 const technologies = [
-  "React", "Next.js", "TypeScript", "JavaScript", "Tailwind CSS", "Node.js", "Flutter", "HTML5", "CSS3", "Git", "Figma", "Vercel", "Python", "MySQL", "Java"
+  "React", "Next.js", "TypeScript", "JavaScript", "Tailwind CSS", "Node.js", "Flutter", "HTML5", "CSS3", "Git", "Figma", "Vercel", "Python", "MySQL", "Java", "Kotlin", "Luau"
 ];
 
 const TechStackTicker = () => {
