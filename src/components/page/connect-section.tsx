@@ -16,23 +16,18 @@ const ConnectSection = () => {
         </p>
         <div className="mt-8 flex justify-center gap-4">
           <Button size="lg" asChild>
-            <Link href="https://www.linkedin.com" target="_blank">
+            <Link href="https://www.linkedin.com/in/haqresa" target="_blank">
               <Linkedin className="mr-2 h-5 w-5" />
               LinkedIn
             </Link>
           </Button>
           <Button size="lg" variant="secondary" asChild>
-            <Link href="https://github.com" target="_blank">
+            <Link href="https://github.com/CRXWFF" target="_blank">
               <Github className="mr-2 h-5 w-5" />
               GitHub
             </Link>
           </Button>
         </div>
-      </div>
-      <div className="mt-20 border-t border-border/40 pt-8">
-        <p className="text-center text-sm text-foreground/50">
-          &copy; {currentYear} John Doe. All Rights Reserved.
-        </p>
       </div>
     </footer>
   );

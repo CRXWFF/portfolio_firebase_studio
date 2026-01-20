@@ -29,7 +29,7 @@ const AboutMeSection = () => {
             <div className="md:col-span-2 p-8 md:p-12">
               <div className="space-y-4 text-lg text-foreground/80">
                 <p>
-                  Hello! I&apos;m Muhammad Nashirul Haq Resa, Software Engineer with versatile technical skills covering Mobile (Flutter/Kotlin), Full stack Web, and Game Development. I have a track record of innovation as a Top 10 Finalist in KIBB and holder of the Copyright for an application that integrates AI with native features, proving my ability to handle complex programming logic. These competencies are reinforced by practical experience in database management, network configuration, and the implementation of industry standards throughout every application development cycle.
+                  Hello! I&apos;m Muhammad Nashirul Haq Resa, Software Engineer with versatile technical skills covering Mobile (Flutter/Kotlin), Full stack Web, and Game Development (but sometimes I do what DevOps do hehe). I have a track record of innovation as a Top 10 Finalist in KIBB and holder of the Copyright for an application that integrates AI with native features, proving my ability to handle complex programming logic. These competencies are reinforced by practical experience in database management, network configuration, and the implementation of industry standards throughout every application development cycle.
                 </p>
                 <p>
                   My journey in tech began with a curiosity for how things work, which quickly evolved into a passion for coding. I thrive on challenges and am constantly learning new technologies to stay at the forefront of the industry.
