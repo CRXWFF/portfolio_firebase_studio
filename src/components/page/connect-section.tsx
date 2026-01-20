@@ -7,7 +7,7 @@ const ConnectSection = () => {
 
   return (
     <footer id="connect" className="py-20 sm:py-32">
-      <div className="container text-center">
+      <div className="container text-center px-4 sm:px-6">
         <h2 className="text-3xl font-bold tracking-tight sm:text-4xl font-headline">
           Connect With Me
         </h2>

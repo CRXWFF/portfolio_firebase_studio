@@ -32,7 +32,7 @@ const projectData = [
 const ProjectsSection = () => {
   return (
     <section id="projects" className="py-20 sm:py-32 bg-card">
-      <div className="container">
+      <div className="container px-4 sm:px-6">
         <h2 className="text-3xl font-bold tracking-tight text-center sm:text-4xl font-headline">
           My Projects
         </h2>
