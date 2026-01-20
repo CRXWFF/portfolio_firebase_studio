@@ -8,22 +8,51 @@ import { Github, ExternalLink } from "lucide-react";
 const projectData = [
   {
     id: "project-1",
-    title: "TRU",
+    title: "TRU CLI",
     description: "A public transportation tracking project, specifically for buses. This project was created using Python and is CLI-based.",
     githubUrl: "https://github.com/CRXWFF/TRU",
-    liveUrl: "#",
   },
   {
     id: "project-2",
-    title: "Task Management App",
-    description: "A responsive and interactive task management application to help users organize their daily tasks and boost productivity.",
+    title: "Crypto Exchange CLI App",
+    description: "A C++ based crypto exchange application that runs on CLI.",
+    githubUrl: "https://github.com/CRXWFF/Crypto-SDA-Project",
   },
   {
     id: "project-3",
-    title: "Portfolio Website",
-    description: "This very portfolio website, designed to be clean, modern, and showcase my skills and projects effectively.",
-    githubUrl: "https://github.com",
-    liveUrl: "#",
+    title: "KurirKu",
+    description: "KurirKu is an affordable and customer-friendly package delivery application. KurirKu is also a final project for the Data Structures & Algorithms course final exam. This project uses C++ and implements the Djikstra algorithm to determine the fastest package delivery route.",
+    githubUrl: "https://github.com/CRXWFF/KurirKu",
+  },
+  {
+    id: "project-4",
+    title: "VylBouquet",
+    description: "VylBouquet is a website for purchasing flower bouquets. In addition, our client uses this website as a place to record their bouquet sales data.",
+    liveUrl: "https://vylbouquet.com/"
+  },
+  {
+    id: "project-5",
+    title: "Baletani",
+    description: "An e-commerce website for purchasing basic necessities from home.",
+    liveUrl: "https://baletani.com/"
+  },
+  {
+    id: "project-6",
+    title: "ASTRONOUT QUEST",
+    description: "My first attempt was learning to make a two-dimensional platformer game similar to Mario Bros using UNITY 2D..",
+    liveUrl: "https://aruleyd.itch.io/astronoutquest"
+  },
+  {
+    id: "project-7",
+    title: "Aksara",
+    description: "A rogue-like game that I and my team created when we participated in the Gimersia Game Jam. The theme of the game jam at that time was observe, imitate, and modify. We happened to try to imitate Balatro.",
+    liveUrl: "https://ramadhann.itch.io/aksara"
+  },
+  {
+    id: "project-8",
+    title: "palugada",
+    description: "Palugada is a Flutter-based mobile application that I personally use for personal purposes in my private life, and it's really great.",
+    githubUrl: "https://github.com/CRXWFF/palugada"
   },
 ];
 

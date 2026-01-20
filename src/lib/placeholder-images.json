@@ -8,21 +8,51 @@
     },
     {
       "id": "project-1",
-      "description": "Screenshot of Project 1.",
-      "imageUrl": "https://images.unsplash.com/photo-1675334758735-5f989ff8237f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhYnN0cmFjdCUyMHRlY2hub2xvZ3l8ZW58MHx8fHwxNzY4ODY1NjQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "description": "Gambar project-1",
+      "imageUrl": "/ss_tru.png",
       "imageHint": "abstract technology"
     },
     {
       "id": "project-2",
-      "description": "Screenshot of Project 2.",
+      "description": "Illustration of Project 2.",
       "imageUrl": "https://images.unsplash.com/photo-1557324232-b8917d3c3dcb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx3ZWJzaXRlJTIwY29kZXxlbnwwfHx8fDE3Njg5MDc0MzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "website code"
     },
     {
       "id": "project-3",
-      "description": "Screenshot of Project 3.",
-      "imageUrl": "https://images.unsplash.com/photo-1761639935139-ffc5d7ce8e67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtb2Rlcm4lMjBkZXNpZ258ZW58MHx8fHwxNzY4ODM2MzQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "modern design"
+      "description": "Illustration of Project 3.",
+      "imageUrl": "https://images.unsplash.com/photo-1493135637657-c2411b3497ad?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "imageHint": "courier"
+    },
+    {
+      "id": "project-4",
+      "description": "Screenshot of Project 4.",
+      "imageUrl": "/vylBouquet.png",
+      "imageHint": "bouquet website"
+    },
+    {
+      "id": "project-5",
+      "description": "Screenshot of Project 5.",
+      "imageUrl": "/baletani.png",
+      "imageHint": "baletani website"
+    },
+    {
+      "id": "project-6",
+      "description": "Screenshot of Project 6.",
+      "imageUrl": "https://img.itch.zone/aW1hZ2UvMjQyODY5Ni8xNDM4NDQ2Mi5wbmc=/original/%2FGSQ1D.png",
+      "imageHint": "astronout quest game"
+    },
+    {
+      "id": "project-7",
+      "description": "Screenshot of Project 7.",
+      "imageUrl": "https://img.itch.zone/aW1nLzI0MDYwOTE2LnBuZw==/original/idOf5J.png",
+      "imageHint": "astronout quest game"
+    },
+    {
+      "id": "project-8",
+      "description": "Screenshot of Project 7.",
+      "imageUrl": "https://private-user-images.githubusercontent.com/140953030/537159651-c05e298d-d965-4c80-b6ee-1c58c8d251cb.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njg5MjY0NTEsIm5iZiI6MTc2ODkyNjE1MSwicGF0aCI6Ii8xNDA5NTMwMzAvNTM3MTU5NjUxLWMwNWUyOThkLWQ5NjUtNGM4MC1iNmVlLTFjNThjOGQyNTFjYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDEyMFQxNjIyMzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZjYzZmNhNjQ0MjAzN2FlZGNmYzQ5OGMyYWIxNzYzOTIzMmFhYzAxZTA3MjQ0ZWQzYmRkNDhkZmMyM2U2NzRkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.fEIQ6D9ZNgcAGE8Yzm6_QmH5sBp-SUI7MfkPbUYCfNU",
+      "imageHint": "palugada mobile app"
     }
   ]
 }
