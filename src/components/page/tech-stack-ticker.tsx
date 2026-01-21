@@ -3,13 +3,17 @@ const technologies = [
 ];
 
 const TechStackTicker = () => {
-  const extendedTechnologies = [...technologies, ...technologies];
-
   return (
     <div className="w-full overflow-hidden py-8 bg-card">
       <div className="flex animate-ticker whitespace-nowrap">
-        {extendedTechnologies.map((tech, index) => (
-          <span key={index} className="text-xl font-semibold mx-6 text-foreground/80">
+        {technologies.map((tech, index) => (
+          <span key={`tech-1-${index}`} className="text-xl font-semibold mx-6 text-foreground/80">
+            {tech}
+          </span>
+        ))}
+        {/* Duplicate for seamless loop */}
+        {technologies.map((tech, index) => (
+          <span key={`tech-2-${index}`} className="text-xl font-semibold mx-6 text-foreground/80" aria-hidden="true">
             {tech}
           </span>
         ))}

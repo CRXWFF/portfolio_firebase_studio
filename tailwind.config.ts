@@ -10,9 +10,9 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        body: ['Manrope', 'sans-serif'],
-        headline: ['Manrope', 'sans-serif'],
-        code: ['Source Code Pro', 'monospace'],
+        body: ['var(--font-manrope)', 'sans-serif'],
+        headline: ['var(--font-manrope)', 'sans-serif'],
+        code: ['var(--font-source-code-pro)', 'monospace'],
       },
       colors: {
         background: 'hsl(var(--background))',
