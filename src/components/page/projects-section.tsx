@@ -54,6 +54,12 @@ const projectData = [
     description: "Palugada is a Flutter-based mobile application that I personally use for personal purposes in my private life, and it's really great.",
     githubUrl: "https://github.com/CRXWFF/palugada"
   },
+  {
+    id: "project-9",
+    title: "Ular Tangga",
+    description: "Ular Tangga is a classic game, but here I try to increase the level of excitement while incorporating educational elements into the game. This game can be used for teaching or for quizzes when gathering with loved ones.",
+    liveUrl: "https://ular-tangga.vercel.app/"
+  },
 ];
 
 const ProjectsSection = () => {

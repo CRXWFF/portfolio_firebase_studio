@@ -53,6 +53,12 @@
       "description": "Screenshot of Project 7.",
       "imageUrl": "/palugada.png",
       "imageHint": "palugada mobile app"
+    },
+    {
+      "id": "project-9",
+      "description": "Screenshot of Project 7.",
+      "imageUrl": "/ularTangga.png",
+      "imageHint": "ular tangga game"
     }
   ]
 }
