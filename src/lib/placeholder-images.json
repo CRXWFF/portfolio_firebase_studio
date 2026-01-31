@@ -50,15 +50,27 @@
     },
     {
       "id": "project-8",
-      "description": "Screenshot of Project 7.",
+      "description": "Screenshot of Project 8.",
       "imageUrl": "/palugada.png",
       "imageHint": "palugada mobile app"
     },
     {
       "id": "project-9",
-      "description": "Screenshot of Project 7.",
+      "description": "Screenshot of Project 9.",
       "imageUrl": "/ularTangga.png",
       "imageHint": "ular tangga game"
+    },
+    {
+      "id": "project-10",
+      "description": "Screenshot of Project 10.",
+      "imageUrl": "/ss_bakti45.png",
+      "imageHint": "bakti45 website"
+    },
+    {
+      "id": "project-11",
+      "description": "Screenshot of Project 11.",
+      "imageUrl": "/ss_blog.png",
+      "imageHint": "my own blog"
     }
   ]
 }

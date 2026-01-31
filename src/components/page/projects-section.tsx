@@ -60,6 +60,18 @@ const projectData = [
     description: "Ular Tangga is a classic game, but here I try to increase the level of excitement while incorporating educational elements into the game. This game can be used for teaching or for quizzes when gathering with loved ones.",
     liveUrl: "https://ular-tangga.vercel.app/"
   },
+  {
+    id: "project-10",
+    title: "Bakti45",
+    description: "The foundation originated from the Empat Lima Plus (45 Plus) community, which was initiated by Fatahilah Imansyah (UNPAD graduate student) and his colleague Salim. Initially, the activities consisted of free tutoring in Mandarin, mathematics, and English at a boarding house in Hegarmanah, with only eight participants at the beginning.",
+    liveUrl: "https://www.bakti45sejahtera.my.id/"
+  },
+  {
+    id: "project-11",
+    title: "My Own Blog",
+    description: "This is my own blog that I created using Next.js + React + TailwindCSS + Supabase.",
+    liveUrl: "https://blog-nashirul.vercel.app/"
+  },
 ];
 
 const ProjectsSection = () => {
