@@ -19,26 +19,30 @@ const sourceCodePro = Source_Code_Pro({
 });
 
 export const metadata: Metadata = {
-  title: 'Nashirul - Portfolio',
-  description: 'Web Developer & Software Engineer. Explore my projects, tech stack, and professional journey.',
-  metadataBase: new URL('https://nashirul.vercel.app'),
-  keywords: ['Nashirul', 'Portfolio', 'Web Developer', 'Software Engineer', 'Next.js', 'React', 'TypeScript'],
-  authors: [{ name: 'Nashirul' }],
-  creator: 'Nashirul',
-  publisher: 'Nashirul',
+  title: 'Nashirul - Web Developer Portfolio',
+  description: 'Web portfolio tapi asal bikin aja wkwkwkwkwk',
+  metadataBase: new URL('https://yourdomain.com'), // Ganti dengan domain Anda
   openGraph: {
-    type: 'website',
-    locale: 'id_ID',
-    url: 'https://nashirul.vercel.app',
-    title: 'Nashirul - Portfolio',
-    description: 'Web Developer & Software Engineer. Explore my projects, tech stack, and professional journey.',
+    title: 'Nashirul - Web Developer Portfolio',
+    description: 'Web portfolio tapi asal bikin aja wkwkwkwkwk',
+    url: 'https://yourdomain.com', // Ganti dengan domain Anda
     siteName: 'Nashirul Portfolio',
+    images: [
+      {
+        url: '/og-image.png', // Gambar Open Graph
+        width: 1200,
+        height: 630,
+        alt: 'Nashirul Portfolio Preview',
+      },
+    ],
+    locale: 'id_ID',
+    type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Nashirul - Portfolio',
-    description: 'Web Developer & Software Engineer. Explore my projects, tech stack, and professional journey.',
-    creator: '@nashirul',
+    title: 'Nashirul - Web Developer Portfolio',
+    description: 'Web portfolio tapi asal bikin aja wkwkwkwkwk',
+    images: ['/og-image.png'], // Gambar untuk Twitter Card
   },
   robots: {
     index: true,
@@ -60,10 +64,6 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="dark">
-      <head>
-        <link rel="manifest" href="/manifest.json" />
-        <meta name="theme-color" content="#3b82f6" />
-      </head>
       <body className={`${manrope.variable} ${sourceCodePro.variable} font-body antialiased`}>
         {children}
         <Toaster />
