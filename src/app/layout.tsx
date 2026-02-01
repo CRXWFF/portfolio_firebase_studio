@@ -20,16 +20,16 @@ const sourceCodePro = Source_Code_Pro({
 
 export const metadata: Metadata = {
   title: 'Nashirul - Web Developer Portfolio',
-  description: 'Web portfolio tapi asal bikin aja wkwkwkwkwk',
-  metadataBase: new URL('https://yourdomain.com'), // Ganti dengan domain Anda
+  description: "Nashirul's personal portfolio website showcasing projects and skills as a web developer.",
+  metadataBase: new URL('https://nashirul.vercel.app'),
   openGraph: {
     title: 'Nashirul - Web Developer Portfolio',
-    description: 'Web portfolio tapi asal bikin aja wkwkwkwkwk',
-    url: 'https://yourdomain.com', // Ganti dengan domain Anda
+    description: "Nashirul's personal portfolio website showcasing projects and skills as a web developer.",
+    url: 'https://nashirul.vercel.app',
     siteName: 'Nashirul Portfolio',
     images: [
       {
-        url: '/og-image.png', // Gambar Open Graph
+        url: '/ss_website.png', // Gambar Open Graph
         width: 1200,
         height: 630,
         alt: 'Nashirul Portfolio Preview',
@@ -41,8 +41,8 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Nashirul - Web Developer Portfolio',
-    description: 'Web portfolio tapi asal bikin aja wkwkwkwkwk',
-    images: ['/og-image.png'], // Gambar untuk Twitter Card
+    description: "Nashirul's personal portfolio website showcasing projects and skills as a web developer.",
+    images: ['/ss_website.png'], // Gambar untuk Twitter Card
   },
   robots: {
     index: true,
